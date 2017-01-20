@@ -1,0 +1,1 @@
+plot(magic(2))
